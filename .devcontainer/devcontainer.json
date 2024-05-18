@@ -1,7 +1,15 @@
 {
-	"name": "Ubuntu",
-	"image": "mcr.microsoft.com/devcontainers/base:jammy",
-	"features": {
-		"ghcr.io/cirolosapio/devcontainers-features/alpine-node:0": {}
-	}
+    "name": "Ubuntu",
+    "image": "mcr.microsoft.com/devcontainers/base:jammy",
+    "features": {
+        "ghcr.io/cirolosapio/devcontainers-features/alpine-node:0": {}
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot",
+                "GitHub.copilot-chat"
+            ]
+        }
+    }
 }
