@@ -60,4 +60,5 @@ components:
 
 ## 参考
 
-[Configuring Codecatalyst Dev Environments](https://repost.aws/articles/ARBTATztMgQOeYyMZ9IAmxDw/configuring-codecatalyst-dev-environments)
+- [Configuring a devfile for a Dev Environment](https://docs.aws.amazon.com/codecatalyst/latest/userguide/devenvironment-devfile.html)
+- [Configuring Codecatalyst Dev Environments](https://repost.aws/articles/ARBTATztMgQOeYyMZ9IAmxDw/configuring-codecatalyst-dev-environments)
