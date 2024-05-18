@@ -57,3 +57,7 @@ components:
     volume:
       size: 16Gi
 ```
+
+## 参考
+
+[Configuring Codecatalyst Dev Environments](https://repost.aws/articles/ARBTATztMgQOeYyMZ9IAmxDw/configuring-codecatalyst-dev-environments)
